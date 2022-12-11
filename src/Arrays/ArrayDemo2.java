@@ -13,7 +13,5 @@ public class ArrayDemo2 {
         for(int a:data){
             System.out.println(a);
         }
-
-
     }
 }
